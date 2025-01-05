@@ -1,22 +1,16 @@
-# js-hindi-youtube
+# JavaScript quick guide
 A code repo for javascript series at Chai aur code youtube channel
 
 ---
 
-## Projects for practice
+# Control Flows - Quick Guide
 
-All projects are available here in a special sandbox. All future projects will also be added on the same link.
-[Javascript Projects](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+1. for..of => Array, Map
 
+2. for..in => Object   
 
-## Control Flows - Quick Guide
-
-for..of => Array, Map
-for..in => Object   
-
-
-forEach  => Map
-
+3. forEach  => Map
+---
 # Some IMP facts
 
 1. for..in with arrays gives you index values.
